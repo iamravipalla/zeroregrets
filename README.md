@@ -1,2 +1,2 @@
 # zeroregrets
-The Regret Minimization Tool
+A Simple yet powerfull app for decision making
