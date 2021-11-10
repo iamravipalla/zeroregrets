@@ -16,3 +16,5 @@ Second, it’s a model that can be used throughout your life, whenever you face 
 While the Regret Minimization Framework (RMF) may not be right for you, having mental models in your toolkit is essential. They help you take action, make hard decisions, and lead a life in line with your ideals.
 
 To break a mental model is harder than splitting an atom -- ALBERT EINSTEIN
+
+Reference: https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24
