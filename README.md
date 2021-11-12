@@ -1,2 +1,2 @@
 # zeroregrets
-A Simple yet powerfull app for decision making
+A Simple yet powerfull app for making decisions and choices
